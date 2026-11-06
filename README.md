@@ -92,3 +92,18 @@ sudo pacman -S libisoburn
 - Names use Rock Ridge (Linux/macOS) plus Joliet with long names (Windows). Abort stops xorriso safely, and
   quitting during a write asks first. The drive is used directly as your user (no root), through the
   desktop's `uaccess` ACL on `/dev/sr*`.
+
+
+# Why?
+
+## Using what I already have because I am poor
+Because I have eccentric tastes and I wanted a good workflow for archiving my photos. I have myself a bunch of
+lightscribe disks and an old though very nice lightscribe DVD drive. I really can't afford those Blu-ray M Disks, so 
+I use what I have. 
+
+## No time after grad school and my other life commitments
+I am quite a busy grad student so it wasn't like I had the time to write this myself so I asked Claude to do it for me
+
+## Having a "thumbnail" of the photos on a DVD data disk is pretty cool
+I really like to have a little preview of what is on the disk that can't get ripped off like a inkjet label or wiped off
+accidentally like the markings of the ever popular sharpie
