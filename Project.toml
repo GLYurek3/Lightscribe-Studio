@@ -1,0 +1,9 @@
+name = "LightScribeStudio"
+uuid = "647999f3-c89b-42a9-a664-6e9ddd16fb99"
+version = "0.1.0"
+authors = ["jy"]
+
+[deps]
+Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
+Gtk4 = "9db2cae5-386f-4011-9d63-a5602296539b"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
